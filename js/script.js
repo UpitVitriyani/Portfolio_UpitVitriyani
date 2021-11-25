@@ -1,6 +1,6 @@
 /* Efek Ngetik */
 
-const txtElement = ['Freelancer', 'Web Developer', 'Graphic Designer'];
+const txtElement = ['Pelajar', 'Mahasiswi'];
 let count = 0;
 let txtIndex = 0;
 let currentTxt = '';
